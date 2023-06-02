@@ -21,5 +21,3 @@ Join me on this journey as I showcase my accomplishments, skills, and dedication
 
 <br>
 <br>
-<br>
-<br>
