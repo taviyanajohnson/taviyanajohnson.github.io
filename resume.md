@@ -12,16 +12,16 @@ Waldorf, MD | (732) 447-6302 | jamison.jcjohnson@gmail.com
 
 
 
-## Experience Summary:
+## Experience Summary: 📎
 
 IT professional with 13+ years of government support and professional experience in System Administration. Highly proficient with DoD security standards/network security protocols, system hardening, software and hardware troubleshooting, Linux distributions (RHEL, CentOS, & Ubuntu) administration, Windows 10 & Windows Server administration, and creating/maintaining VMware vSphere virtual environments. Great work ethic with a thirst for challenging projects, working with innovative technologies to expand my knowledge, and applying those skills to better support the mission.
 
-## Technology Experience:
+## Technology Experience: 🖥️
 
 * Operating Systems- Microsoft Windows Server, Microsoft Windows 10/11, Mac OS X, Red Hat Enterprise Linux (RHEL), CentOS, and Ubuntu.
 * Software & Technologies- Windows PowerShell, Group Policy, FreeNAS, PDQ Inventory, PDQ Deploy, Nakivo, Veeam, VMware vSphere (ESXi), Red Hat Ansible, Docker, Podman, ACAS, Nessus, Security Technical Implementation Guides (STIGs)/Security Content Automation Protocol (SCAP), Continuous Monitoring, PKI, Networking, Microsoft Office, Active Directory, Technical Writing, Remedy, Service Now, Windows Remote Assistance, McAfee Endpoint Encryption, Exchange Server, Office 365, SMIME, CAC Cards, RSA Tokens, Citrix Workplace, Virtual Private Network (VPN), Wyse Thin Clients, Switches, Routers, Outlook Web Access, MobileIron MDM, Good Technology MDM, Blackberry UEM MDM, Entrust Registration Authority, Virtual Desktop Infrastructure (VDI), Cisco iOS, Printer Administration, BES Administration, Microsoft System Center Configuration Manager (SCCM), Webex Administration, and IBM BigFix.
 
-## Employment History:
+## Employment History: 📤
 
 ### Department of Navy - IT Specialist: 01/2022 – Present
 
@@ -52,7 +52,7 @@ IT professional with 13+ years of government support and professional experience
 
 
 
-## Education | Certifications:
+## Education | Certifications: 📚
 
 ### Virginia State University – Petersburg, VA
 
