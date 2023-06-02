@@ -23,19 +23,3 @@ Join me on this journey as I showcase my accomplishments, skills, and dedication
 <br>
 <br>
 <br>
-
-
-
-
-
-
-
-
-
-<!--
-{% if site.show_excerpts %}
-  {% include home.html %}
-{% else %}
-  {% include archive.html title="Welcome" %}
-{% endif %}
--->
