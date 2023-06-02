@@ -3,11 +3,7 @@ layout: default
 title: "Home"
 ---
 
-
 ![Profile Picture](assets/img/homepage/homepage.jpg)
-
-
-
 
 ## Welcome to My IT Portfolio!
 
