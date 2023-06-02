@@ -7,11 +7,11 @@ title: "Home"
 ![Profile Picture](assets/img/homepage/homepage.jpg)
 
 
-</br></br></br>
+
 
 ## Welcome to My IT Portfolio!
 
-</br>
+
 
 With over 13 years of experience in government support and system administration, I bring a wealth of expertise in various areas of IT. As a seasoned professional, I have a strong command of DoD security standards, network security protocols, system hardening, and troubleshooting both software and hardware. My proficiency extends to administering Linux distributions such as RHEL, CentOS, and Ubuntu, as well as managing Windows 10 and Windows Server environments. Additionally, I excel in creating and maintaining VMware vSphere virtual environments. 
 
@@ -19,7 +19,7 @@ With an unwavering work ethic and a passion for tackling challenging projects, I
 
 Join me on this journey as I showcase my accomplishments, skills, and dedication to IT excellence.
 
-</br></br></br>
+
 
 <!--
 {% if site.show_excerpts %}

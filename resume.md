@@ -38,13 +38,13 @@ IT professional with 13+ years of government support and professional experience
 Bachelor of Science in Computer Information Systems
 
 * CompTIA Linux+ Certified Professional
-    * August 2016 | Pearson VUE Training Center
+    * August 2016
 * HDI Support Center Team Lead
-    * November 2016 | Help Desk Institute
+    * November 2016
 * CompTIA Security+ Certified Professional 
-    * May 2018 | Prometric Testing Center
+    * May 2018
 * CompTIA CASP+ Certified Professional 
-    * November 2020 | Prometric Testing Center 
+    * November 2020
 * Cyber Security Work Force (CSWF)
     * January 2022
  
