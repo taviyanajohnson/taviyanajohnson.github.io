@@ -32,21 +32,38 @@ IT professional with 13+ years of government support and professional experience
 * Implemented and documented processes and procedures for performing system administration activities. I ensured that all newly created documentation was added to the teams SharePoint site for later review.
 * Utilized the ServiceNow (SNOW) ticketing system to support customer request and ensured that they were tracked to completion.
 
+### Department of Navy via SimVentions- Senior System Administrator: 01/2021 – 12/2021
+
+* Supported MDM platform MobileIron which was used to configure and support Android mobile devices. Within MobileIron the following tasks were required, mobile device configurations/installations, user and device group configurations, policy configurations, pushing Google Play and In-house applications, and many more specific tasks.
+* Ubuntu administration including software installations, user administration, data backups, system maintenance, OS updates/upgrades, script writing, and cron job configurations. The activities also included server backups, MYSQL database backups, webservice backups, and docker instances backups.
+* Provided support for various different technologies. The primary technologies included, Seagate NAS, Synology NAS, Jenkins, Mantis Bug Tracker, Jira, Docker, Linux OS (Ubuntu & CentOS), Windows 10 OS, and Cisco router support.
+* Cisco router configuration and support. Various tasked were completed to include the following: Implement Cisco AnyConnect configuration settings on the router and the client machines, implement a router configuration backup process, edit firewall access rules, and port forwarding settings to improve the security posture of the router/network, VLAN configurations, and various other tasks.
+* Worked to document processes and procedures for execution of the system administration duties. Ensured that all newly created documentation was added to a shared location on the NAS for later review by the rest of the team.
+
+### Department of Navy via SimVentions- System Administrator: 04/2019 – 07/2021
+
+* Developed and supported over 100 virtual and physical severs and machines within an offline lab environment, utilizing VMWare vSphere within vCenter, working within a team of software developers to provide support to them to address their daily issues.
+* Ensured systems are operational for software development and software testing activities. These systems are primary Dell hardware which include laptops, desktops, and rack-mounted servers.
+* RHEL administration including software installations, user administration, data backups, system maintenance, & OS updates/upgrades. The RHEL machines are imaged by a kickstart script that allows all machines to have a uniform build.
+* Windows administration including Active Directory, Group Policy and PowerShell administration. Group policies were created and maintained with imported DISA STIGs, scanned via the SCAP Tool, and then verified through an Information Assurance (IA) process.
+* Performed Assured Compliance Assessment Solutions (ACAS) scanning and uploaded scan results via Nessus. After the ACAS scan was completed, STIG & SCAP scans were also run to stay compliant with DOD DISA standards.
+* Created vSphere virtual machines, created backups and restorations, applied server updates, and additional troubleshooting. In addition, I provided, daily monitoring, management, and restoration of virtual machines per customers’ needs.
+* Documented processes and procedures for performing system administration activities. I ensured that all newly created documentation was added to the teams SharePoint site for later review.
+
+
+
 ## Education | Certifications:
 
 ### Virginia State University – Petersburg, VA
+
 Bachelor of Science in Computer Information Systems
 
 * CompTIA Linux+ Certified Professional
-    * August 2016
 * HDI Support Center Team Lead
-    * November 2016
 * CompTIA Security+ Certified Professional 
-    * May 2018
-* CompTIA CASP+ Certified Professional 
-    * November 2020
+* CompTIA CASP+ Certified Professional
 * Cyber Security Work Force (CSWF)
-    * January 2022
+
  
 
 
