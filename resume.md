@@ -1,5 +1,5 @@
 ---
-title: "Resume"
+title: ""
 permalink: "/resume/"
 layout: page
 ---
