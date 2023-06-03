@@ -7,9 +7,10 @@ layout: page
 # Jamison Johnson
 Waldorf, MD | (732) 447-6302 | jamison.jcjohnson@gmail.com 
 
-**Active Top Secret Security Clearance**
+<!--**Active Top Secret Security Clearance**-->
 
 
+<span style="color:red"> **Active Top Secret Security Clearance** </span>
 
 
 ## Experience Summary: 📎
