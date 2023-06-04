@@ -91,4 +91,4 @@ Bachelor of Science in Computer Information Systems
 
 <br>
 
-🔗 Review my home lab work documentation on GitHub: <https://www.johnsonpremier.github.io>
+🔗 Review my home lab work documentation on GitHub: <https://johnsonpremier.github.io>
