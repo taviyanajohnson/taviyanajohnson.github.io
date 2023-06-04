@@ -16,7 +16,7 @@ Waldorf, MD | (732) 447-6302 | jamison.jcjohnson@gmail.com
 
 ## Experience Summary: 📎
 
-IT professional with 13+ years of government support and professional experience in System Administration. Highly proficient with DoD security standards/network security protocols, system hardening, software and hardware troubleshooting, Linux distributions (RHEL, CentOS, & Ubuntu) administration, Windows 10 & Windows Server administration, and creating/maintaining VMware vSphere virtual environments. Great work ethic with a thirst for challenging projects, working with innovative technologies to expand my knowledge, and applying those skills to better support the mission.
+* IT professional with 13+ years of government support and professional experience in System Administration. Highly proficient with DoD security standards/network security protocols, system hardening, software and hardware troubleshooting, Linux distributions (RHEL, CentOS, & Ubuntu) administration, Windows 10 & Windows Server administration, and creating/maintaining VMware vSphere virtual environments. Great work ethic with a thirst for challenging projects, working with innovative technologies to expand my knowledge, and applying those skills to better support the mission.
 
 <br>
 
