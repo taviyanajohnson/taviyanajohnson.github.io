@@ -12,15 +12,20 @@ Waldorf, MD | (732) 447-6302 | jamison.jcjohnson@gmail.com
 
 <span style="color:red"> **Active Top Secret Security Clearance** </span>
 
+<br>
 
 ## Experience Summary: 📎
 
 IT professional with 13+ years of government support and professional experience in System Administration. Highly proficient with DoD security standards/network security protocols, system hardening, software and hardware troubleshooting, Linux distributions (RHEL, CentOS, & Ubuntu) administration, Windows 10 & Windows Server administration, and creating/maintaining VMware vSphere virtual environments. Great work ethic with a thirst for challenging projects, working with innovative technologies to expand my knowledge, and applying those skills to better support the mission.
 
+<br>
+
 ## Technology Experience: 🖥️
 
 * Operating Systems- Microsoft Windows Server, Microsoft Windows 10/11, Mac OS X, Red Hat Enterprise Linux (RHEL), CentOS, and Ubuntu.
 * Software & Technologies- Windows PowerShell, Group Policy, FreeNAS, PDQ Inventory, PDQ Deploy, Nakivo, Veeam, VMware vSphere (ESXi), Red Hat Ansible, Docker, Podman, ACAS, Nessus, Security Technical Implementation Guides (STIGs)/Security Content Automation Protocol (SCAP), Continuous Monitoring, PKI, Networking, Microsoft Office, Active Directory, Technical Writing, Remedy, Service Now, Windows Remote Assistance, McAfee Endpoint Encryption, Exchange Server, Office 365, SMIME, CAC Cards, RSA Tokens, Citrix Workplace, Virtual Private Network (VPN), Wyse Thin Clients, Switches, Routers, Outlook Web Access, MobileIron MDM, Good Technology MDM, Blackberry UEM MDM, Entrust Registration Authority, Virtual Desktop Infrastructure (VDI), Cisco iOS, Printer Administration, BES Administration, Microsoft System Center Configuration Manager (SCCM), Webex Administration, and IBM BigFix.
+
+<br>
 
 ## Employment History: 📤
 
@@ -51,7 +56,7 @@ IT professional with 13+ years of government support and professional experience
 * Created vSphere virtual machines, created backups and restorations, applied server updates, and additional troubleshooting. In addition, I provided, daily monitoring, management, and restoration of virtual machines per customers’ needs.
 * Documented processes and procedures for performing system administration activities. I ensured that all newly created documentation was added to the teams SharePoint site for later review.
 
-
+<br>
 
 ## Education | Certifications: 📚
 
@@ -65,6 +70,25 @@ Bachelor of Science in Computer Information Systems
 * CompTIA CASP+ Certified Professional
 * Cyber Security Work Force (CSWF)
 
- 
+<br>
+
+## Home Lab Experience:🏠
 
 
+### Experience Timeline:
+
+* Started configuring home lab in 2020
+
+
+### Summary:
+
+* My home lab journey began in 2020, when I embarked on a hands-on exploration of various technologies. From Docker containers and Ansible automation to CentOS servers and other Linux distributions like Ubuntu. Including PostgreSQL databases, I have honed my skills in a diverse range of IT domains. Managing Jekyll static pages hosted on GitHub, leveraging Markdown for efficient documentation, and delving into Windows Server 2022 administration have been integral parts of my home lab experience. Additionally, I have integrated CloudFlare for Dynamic DNS (DDNS) services and enhanced performance, implemented Pi-Hole for local DNS configurations and network-wide ad-blocking, and utilized Portainer for streamlined container management. Venturing into virtualization with Proxmox and managing network storage with Synology NAS have further expanded my expertise. Through this ongoing journey, I continuously strive to broaden my knowledge, refine my skills, and stay at the forefront of technological advancements.
+
+
+### Technologies:
+
+* Docker, Ansible, Ubuntu 20.04+ CentOS 8+, PostgreSQL, Jekyll static pages hosted on GitHub, Markdown, Windows 10/11, Windows Server 2022, CloudFlare, Pi-Hole, Portainer, Proxmox, Synology NAS.
+
+<br>
+
+🔗 Review my home lab work documentation on GitHub: <https://www.johnsonpremier.github.io>
