@@ -20,8 +20,10 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md"} 
 #  - {file: "README.md"} 
   - {file: "resume.md"} 
-  - {title: "Reviews", url: "https://jpcreviews.github.io"}
-  - {title: "Blog", url: "https://johnsonpremier.github.io"}
+  - {title: "Reviews", url: "https://reviews.johnsonpremier.net"}
+  - {title: "Blog", url: "https://blog.johnsonpremier.net"}
+#  - {title: "Reviews", url: "https://jpcreviews.github.io"}
+#  - {title: "Blog", url: "https://johnsonpremier.github.io"}
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
