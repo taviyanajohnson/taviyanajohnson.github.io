@@ -14,8 +14,6 @@ With an unwavering work ethic and a passion for tackling challenging projects, I
 
 Join me on this journey as I showcase my accomplishments, skills, and dedication to IT excellence.
 
-<br>
-
 You can help support my work by donating [here.](https://www.paypal.com/paypalme/JamisonJohnson/)
 
 <br>
