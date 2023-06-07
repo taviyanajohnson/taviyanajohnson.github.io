@@ -3,7 +3,7 @@ layout: default
 title: "Home"
 ---
 
-![Profile Picture](assets/img/homepage/profile-pic2.jpg)
+![Profile Picture](assets/img/homepage/profile-pic1.jpg)
 
 ## Welcome to My IT Portfolio!
 
@@ -17,3 +17,6 @@ Join me on this journey as I showcase my accomplishments, skills, and dedication
 <br>
 
 You can help support my work by donating [here.](https://www.paypal.com/paypalme/JamisonJohnson/)
+
+<br>
+<br>
