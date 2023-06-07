@@ -3,7 +3,7 @@ layout: default
 title: "Home"
 ---
 
-![Profile Picture](assets/img/homepage/profile-pic.jpg)
+![Profile Picture](assets/img/homepage/profile-pic2.jpg)
 
 ## Welcome to My IT Portfolio!
 
@@ -15,4 +15,5 @@ With an unwavering work ethic and a passion for tackling challenging projects, I
 Join me on this journey as I showcase my accomplishments, skills, and dedication to IT excellence.
 
 <br>
-<br>
+
+You can help support my work by donating [here.](https://www.paypal.com/paypalme/JamisonJohnson/)

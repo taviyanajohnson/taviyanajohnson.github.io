@@ -29,6 +29,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Github, icon: github, url: "https://github.com/jamisonjohnson/jamisonjohnson.github.io"}
   - {title: Instagram, icon: instagram, url: "https://www.instagram.com/johnsonpremierconsulting/"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/jamisonjcjohnson/"}
+  - {title: PayPal, icon: paypal, url: "https://www.paypal.com/paypalme/JamisonJohnson/"}
 
 
 comments:
