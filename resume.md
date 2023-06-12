@@ -92,3 +92,7 @@ Bachelor of Science in Computer Information Systems
 <br>
 
 🔗 Review my documentation here : <https://blog.johnsonpremier.net>
+
+<br>
+
+📝 You may download my resume by clicking [here](/assets/files/JamisonJohnsonResume_2023.pdf).
