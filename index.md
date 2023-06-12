@@ -20,8 +20,6 @@ Join me on this journey as I showcase my accomplishments, skills, and dedication
 
 You may download my resume by clicking [here](/assets/files/JamisonJohnsonResume_2023.pdf).
 
-Thank you for visiting my IT portfolio! If you have any questions or inquiries, please don't hesitate to [contact me](mailto:jamison.jcjohnson@gmail.com).
-
 You can help support my work by donating [here](https://www.paypal.com/paypalme/JamisonJohnson/).
 
 <br>
