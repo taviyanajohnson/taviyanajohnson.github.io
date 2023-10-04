@@ -3,7 +3,9 @@ layout: default
 title: "Home"
 ---
 
-![Profile Picture](assets/img/homepage/profile-pic.jpg)
+
+<img src="assets/img/homepage/profile-pic.jpg" alt="Profile Picture" width="200px" />
+
 
 ## Welcome to My IT Portfolio!
 
