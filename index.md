@@ -4,7 +4,7 @@ title: "Home"
 ---
 
 
-<img src="assets/img/homepage/profile-pic.jpg" alt="Profile Picture" width="300px" />
+<img src="assets/img/homepage/profile-pic2.jpg" alt="Profile Picture" width="300px" />
 
 
 ## Welcome to My IT Portfolio!
