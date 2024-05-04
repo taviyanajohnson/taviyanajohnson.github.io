@@ -22,7 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "resume.md"} 
 #  - {title: "Reviews", url: "https://reviews.johnsonpremier.net"}
   - {title: "Blog", url: "https://blog.johnsonpremier.net"}
-  - {title: "Projects", url: "https://projects.johnsonpremier.net"}
+#  - {title: "Projects", url: "https://projects.johnsonpremier.net"}
 #  - {title: "Blog", url: "https://johnsonpremier.github.io"}
 
 
